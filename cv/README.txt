@@ -1,1 +1,1 @@
-Place your current CV PDF here and name it Fanji_Yang_CV.pdf
+Place your current CV(curriculum vitae) PDF here and name it Fanji_Yang_CV.pdf
